@@ -65,4 +65,5 @@ if(creationdate == d1):
 """)
 else:
     print("Not today :(")
+    print("sudo's birthday is on", creationdate)
 
